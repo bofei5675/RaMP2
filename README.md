@@ -1,3 +1,5 @@
+# This Repo is no logner maintained. For latest version, please visit [Mathe Lab Repo](https://github.com/Mathelab/RaMP-DB).
+# Click [RaMP server version](http://bmi-rampapp-vd01.bmi.osumc.edu:3838/ramp/) to see the application
 # RaMP - Relational Database of Metabolomic Pathways
 
 The purpose of RaMP is to provide a publicly available database that integrates metabolite and gene biological pathways from multiple sources. Currently, we have integrated information from HMDB, KEGG Reactome, and WikiPathways. The relational structure of RaMP enables complex and batch queries.  To facilitate its usage, we have created an R package that includes a user-friendly R Shiny web application.  Please note that this project is in continuous development and we certainly appreciate your feedback.  
